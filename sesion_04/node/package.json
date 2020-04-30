@@ -1,0 +1,16 @@
+{
+  "name": "sesion_04",
+  "version": "1.0.0",
+  "description": "Calculadora",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "calculadora",
+    "node"
+  ],
+  "author": "Mauricio Chávez",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.10.2"
+  }
+}
