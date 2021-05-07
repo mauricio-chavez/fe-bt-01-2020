@@ -11,6 +11,6 @@
   "author": "Mauricio Chávez",
   "license": "MIT",
   "dependencies": {
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
